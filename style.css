@@ -1,0 +1,52 @@
+#one{
+    width: 25%;
+}
+#two{
+    width: 25%;
+}
+#three{
+    width: 25%;
+}
+#four{
+    width: 25%;
+}
+.maindiv{
+    display: flex;
+    width: 96.5%;
+    background-color:rgb(248, 129, 248);
+    text-align: center;
+    padding: 10PX;
+    margin-left: 15px;
+   
+   
+}
+.secaside{
+    display: flex;
+}
+aside{
+    background-color:rgb(248, 129, 248); 
+    text-align: center;
+    margin: 15px;
+}
+li{
+    width: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+section{
+    margin: 15px;
+    
+}
+footer{
+    margin-left: 15px;
+    padding-top: 15px;
+    width: 98%;
+    text-align: center;
+}
+
+p{
+    padding-left: 10px;
+}
+h2{
+    padding-left: 10px;
+}
